@@ -1,6 +1,8 @@
 {
   "sampleImg" : "http://placeimg.com/640/360/tech",
   "sampleCarouselImg1" : "../../images/sampleImg1.jpeg",
-  "sampleCarouselImg2" : "../../images/sampleImg2.jpeg",
-  "sampleCarouselImg3" : "../../images/sampleImg3.jpeg",
+  "sampleCarouselImg2" : "../../images/sampleImg2.jpg",
+  "sampleCarouselImg3" : "../../images/sampleImg3.jpg",
+  "sampleCarouselMaxWidth" : 1000px,
+  "sampleCarouselId" : "sampleCarouselId",
 }
