@@ -1,8 +1,12 @@
 {
   "sampleImg" : "http://placeimg.com/640/360/tech",
-  "sampleCarouselImg1" : "../../images/sampleImg1.jpeg",
-  "sampleCarouselImg2" : "../../images/sampleImg2.jpg",
-  "sampleCarouselImg3" : "../../images/sampleImg3.jpg",
   "sampleCarouselMaxWidth" : 1000px,
   "sampleCarouselId" : "sampleCarouselId",
+  "thumbnailImg" : "../../images/blankImg.jpg",
+  "textFieldRows" : 10,
+  "carouselItemList" : [
+    {"isCarouselActive" : true, "carouselItemImg" : "../../images/sampleImg1.jpeg", "carouselAltText" : "First Slide"},
+    {"isCarouselActive" : false, "carouselItemImg" : "../../images/sampleImg2.jpg", "carouselAltText" : "Second Slide"},
+    {"isCarouselActive" : false, "carouselItemImg" : "../../images/sampleImg3.jpg", "carouselAltText" : "Third Slide"}
+  ]
 }
